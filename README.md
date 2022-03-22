@@ -2,9 +2,12 @@
 
 <img align="left" width="100" height="100" src="avatar.png"/> 
 
-<p> I'm <strong>Célia</strong>, a junior web developer :computer:  ! I've learn web dev' at <strong>O'Clock</strong>, a full remote school ! I love to learn things by    myself (and not only things   about dev !). </p>
+<p> I'm <strong>Célia</strong>, a junior web developer :computer:  ! I've learned web dev' at <strong>O'Clock</strong>, a full remote school ! I love to learn things by    myself (and not only things   about dev !). </p>
   
-<p> :eyes:<strong>Curious</strong> is a word that describes me quite well.</p>
+<p> :eyes: <strong>Curious</strong> is a word that describes me quite well.</p>
+
+---
+
 
 
 ### Come and say me Hi ! 📫💬 
@@ -28,8 +31,9 @@
 ### What I would like to learn 
 
 <p>
-  <img alt="vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=white" /> 
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="React-Native" src="https://img.shields.io/badge/-React--Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="Vue-js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
