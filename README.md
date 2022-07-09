@@ -2,7 +2,7 @@
 
 <img align="left" width="100" height="100" src="avatar.png"/> 
 
-<p> I'm <strong>Célia</strong>, a junior web developer :computer:  ! I've learned web dev' at <strong>O'Clock</strong>, a full remote school ! I love to learn things by    myself (and not only things   about dev !). </p>
+<p> I'm <strong>Célia Tosic</strong>, a junior web developer :computer:  ! I've learned web dev' at <strong>O'Clock</strong>, a full remote school ! I love to learn things by    myself (and not only things   about dev !). </p>
   
 <p> :eyes: <strong>Curious</strong> is a word that describes me quite well.</p>
 
